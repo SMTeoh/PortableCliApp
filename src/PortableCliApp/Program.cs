@@ -9,7 +9,7 @@ using PortableCliApp;
  */
 
 Console.WriteLine("Lousy Cross-platform .NET 10 CLI demonstration");
-Console.WriteLine("I like C#!");
+Console.WriteLine("Python is the best!");
 Console.WriteLine("========================================");
 Console.WriteLine();
 
