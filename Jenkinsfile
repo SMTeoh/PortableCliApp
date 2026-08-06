@@ -56,7 +56,7 @@ pipeline {
             }
         }
 
-        stage('Clean') {
+        stage('Clean' ) {
             steps {
                 /*
                  * Remove build artifacts left in the current workspace
