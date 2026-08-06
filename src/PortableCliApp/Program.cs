@@ -8,7 +8,8 @@ using PortableCliApp;
  * their results to the console.
  */
 
-Console.WriteLine("Cross-platform .NET 10 CLI demonstration");
+Console.WriteLine("Lousy Cross-platform .NET 10 CLI demonstration");
+Console.WriteLine("I like C#!");
 Console.WriteLine("========================================");
 Console.WriteLine();
 
